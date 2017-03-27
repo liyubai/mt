@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.mt2</string>
+				<string>com.fy.rxqzkuaiyong</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>5.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
