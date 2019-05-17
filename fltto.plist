@@ -35,10 +35,10 @@
 				<key>bundle-identifier</key>
 				<string>com.amber-aviation.fltto</string>
 				<key>bundle-version</key>
-				<string>1.2.2.</string>
+				<string>1.2.2</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>FLTTO JOIN FLYING</key>
+				<key>title</key>
 				<string>App download</string>
 			</dict>
 		</dict>
